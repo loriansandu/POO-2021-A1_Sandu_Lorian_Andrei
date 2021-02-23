@@ -5,6 +5,6 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(OOP
 
-        "Laborator2/NumberList.h"
-        "Laborator2/NumberList.cpp"
-        "Laborator2/main_S2.cpp")
+        "Laborator 2/NumberList.h"
+        "Laborator 2/NumberList.cpp"
+        "Laborator 2/main_S2.cpp")
