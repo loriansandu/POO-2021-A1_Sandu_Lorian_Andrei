@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/lorian-andreisandu/Desktop/OOP/Laborator 1/main.cpp
+/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator2/NumberList.cpp
+NumberList.h
+/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator2/NumberList.h
 iostream
 -
-stdio.h
--
-cstring
--
+
+/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator2/NumberList.h
 

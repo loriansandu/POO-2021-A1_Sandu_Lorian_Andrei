@@ -68,10 +68,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/lorian-andreisandu/Desktop/OOP
+CMAKE_SOURCE_DIR = /Users/lorian-andreisandu/Desktop/OOP/OOP-2021
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/lorian-andreisandu/Desktop/OOP/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/lorian-andreisandu/Desktop/OOP/OOP-2021/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -100,9 +100,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lorian-andreisandu/Desktop/OOP/cmake-build-debug/CMakeFiles /Users/lorian-andreisandu/Desktop/OOP/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lorian-andreisandu/Desktop/OOP/OOP-2021/cmake-build-debug/CMakeFiles /Users/lorian-andreisandu/Desktop/OOP/OOP-2021/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lorian-andreisandu/Desktop/OOP/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lorian-andreisandu/Desktop/OOP/OOP-2021/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -143,32 +143,59 @@ OOP/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/build
 .PHONY : OOP/fast
 
-Laborator_1/main.o: Laborator_1/main.cpp.o
+Laborator2/NumberList.o: Laborator2/NumberList.cpp.o
 
-.PHONY : Laborator_1/main.o
+.PHONY : Laborator2/NumberList.o
 
 # target to build an object file
-Laborator_1/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_1/main.cpp.o
-.PHONY : Laborator_1/main.cpp.o
+Laborator2/NumberList.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator2/NumberList.cpp.o
+.PHONY : Laborator2/NumberList.cpp.o
 
-Laborator_1/main.i: Laborator_1/main.cpp.i
+Laborator2/NumberList.i: Laborator2/NumberList.cpp.i
 
-.PHONY : Laborator_1/main.i
+.PHONY : Laborator2/NumberList.i
 
 # target to preprocess a source file
-Laborator_1/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_1/main.cpp.i
-.PHONY : Laborator_1/main.cpp.i
+Laborator2/NumberList.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator2/NumberList.cpp.i
+.PHONY : Laborator2/NumberList.cpp.i
 
-Laborator_1/main.s: Laborator_1/main.cpp.s
+Laborator2/NumberList.s: Laborator2/NumberList.cpp.s
 
-.PHONY : Laborator_1/main.s
+.PHONY : Laborator2/NumberList.s
 
 # target to generate assembly for a file
-Laborator_1/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_1/main.cpp.s
-.PHONY : Laborator_1/main.cpp.s
+Laborator2/NumberList.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator2/NumberList.cpp.s
+.PHONY : Laborator2/NumberList.cpp.s
+
+Laborator2/test.o: Laborator2/test.cpp.o
+
+.PHONY : Laborator2/test.o
+
+# target to build an object file
+Laborator2/test.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator2/test.cpp.o
+.PHONY : Laborator2/test.cpp.o
+
+Laborator2/test.i: Laborator2/test.cpp.i
+
+.PHONY : Laborator2/test.i
+
+# target to preprocess a source file
+Laborator2/test.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator2/test.cpp.i
+.PHONY : Laborator2/test.cpp.i
+
+Laborator2/test.s: Laborator2/test.cpp.s
+
+.PHONY : Laborator2/test.s
+
+# target to generate assembly for a file
+Laborator2/test.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator2/test.cpp.s
+.PHONY : Laborator2/test.cpp.s
 
 # Help Target
 help:
@@ -179,9 +206,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... OOP"
-	@echo "... Laborator_1/main.o"
-	@echo "... Laborator_1/main.i"
-	@echo "... Laborator_1/main.s"
+	@echo "... Laborator2/NumberList.o"
+	@echo "... Laborator2/NumberList.i"
+	@echo "... Laborator2/NumberList.s"
+	@echo "... Laborator2/test.o"
+	@echo "... Laborator2/test.i"
+	@echo "... Laborator2/test.s"
 .PHONY : help
 
 

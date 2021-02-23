@@ -4,5 +4,7 @@ project(OOP)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(OOP
-        "Laborator 1/ini.txt"
-        "Laborator 1/main.cpp")
+
+        "Laborator2/NumberList.h"
+        "Laborator2/NumberList.cpp"
+        "Laborator2/test.cpp")
