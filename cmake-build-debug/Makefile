@@ -170,32 +170,32 @@ Laborator2/NumberList.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator2/NumberList.cpp.s
 .PHONY : Laborator2/NumberList.cpp.s
 
-Laborator2/test.o: Laborator2/test.cpp.o
+Laborator2/main_S2.o: Laborator2/main_S2.cpp.o
 
-.PHONY : Laborator2/test.o
+.PHONY : Laborator2/main_S2.o
 
 # target to build an object file
-Laborator2/test.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator2/test.cpp.o
-.PHONY : Laborator2/test.cpp.o
+Laborator2/main_S2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator2/main_S2.cpp.o
+.PHONY : Laborator2/main_S2.cpp.o
 
-Laborator2/test.i: Laborator2/test.cpp.i
+Laborator2/main_S2.i: Laborator2/main_S2.cpp.i
 
-.PHONY : Laborator2/test.i
+.PHONY : Laborator2/main_S2.i
 
 # target to preprocess a source file
-Laborator2/test.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator2/test.cpp.i
-.PHONY : Laborator2/test.cpp.i
+Laborator2/main_S2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator2/main_S2.cpp.i
+.PHONY : Laborator2/main_S2.cpp.i
 
-Laborator2/test.s: Laborator2/test.cpp.s
+Laborator2/main_S2.s: Laborator2/main_S2.cpp.s
 
-.PHONY : Laborator2/test.s
+.PHONY : Laborator2/main_S2.s
 
 # target to generate assembly for a file
-Laborator2/test.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator2/test.cpp.s
-.PHONY : Laborator2/test.cpp.s
+Laborator2/main_S2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator2/main_S2.cpp.s
+.PHONY : Laborator2/main_S2.cpp.s
 
 # Help Target
 help:
@@ -209,9 +209,9 @@ help:
 	@echo "... Laborator2/NumberList.o"
 	@echo "... Laborator2/NumberList.i"
 	@echo "... Laborator2/NumberList.s"
-	@echo "... Laborator2/test.o"
-	@echo "... Laborator2/test.i"
-	@echo "... Laborator2/test.s"
+	@echo "... Laborator2/main_S2.o"
+	@echo "... Laborator2/main_S2.i"
+	@echo "... Laborator2/main_S2.s"
 .PHONY : help
 
 

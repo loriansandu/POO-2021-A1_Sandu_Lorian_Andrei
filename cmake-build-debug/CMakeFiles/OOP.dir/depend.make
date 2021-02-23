@@ -4,6 +4,6 @@
 CMakeFiles/OOP.dir/Laborator2/NumberList.cpp.o: ../Laborator2/NumberList.cpp
 CMakeFiles/OOP.dir/Laborator2/NumberList.cpp.o: ../Laborator2/NumberList.h
 
-CMakeFiles/OOP.dir/Laborator2/test.cpp.o: ../Laborator2/NumberList.h
-CMakeFiles/OOP.dir/Laborator2/test.cpp.o: ../Laborator2/test.cpp
+CMakeFiles/OOP.dir/Laborator2/main_S2.cpp.o: ../Laborator2/NumberList.h
+CMakeFiles/OOP.dir/Laborator2/main_S2.cpp.o: ../Laborator2/main_S2.cpp
 

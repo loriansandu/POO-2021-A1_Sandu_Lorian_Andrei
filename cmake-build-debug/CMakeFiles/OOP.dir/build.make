@@ -90,29 +90,29 @@ CMakeFiles/OOP.dir/Laborator2/NumberList.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OOP.dir/Laborator2/NumberList.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator2/NumberList.cpp -o CMakeFiles/OOP.dir/Laborator2/NumberList.cpp.s
 
-CMakeFiles/OOP.dir/Laborator2/test.cpp.o: CMakeFiles/OOP.dir/flags.make
-CMakeFiles/OOP.dir/Laborator2/test.cpp.o: ../Laborator2/test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/OOP.dir/Laborator2/test.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/OOP.dir/Laborator2/test.cpp.o -c /Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator2/test.cpp
+CMakeFiles/OOP.dir/Laborator2/main_S2.cpp.o: CMakeFiles/OOP.dir/flags.make
+CMakeFiles/OOP.dir/Laborator2/main_S2.cpp.o: ../Laborator2/main_S2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/OOP.dir/Laborator2/main_S2.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/OOP.dir/Laborator2/main_S2.cpp.o -c /Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator2/main_S2.cpp
 
-CMakeFiles/OOP.dir/Laborator2/test.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OOP.dir/Laborator2/test.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator2/test.cpp > CMakeFiles/OOP.dir/Laborator2/test.cpp.i
+CMakeFiles/OOP.dir/Laborator2/main_S2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OOP.dir/Laborator2/main_S2.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator2/main_S2.cpp > CMakeFiles/OOP.dir/Laborator2/main_S2.cpp.i
 
-CMakeFiles/OOP.dir/Laborator2/test.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OOP.dir/Laborator2/test.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator2/test.cpp -o CMakeFiles/OOP.dir/Laborator2/test.cpp.s
+CMakeFiles/OOP.dir/Laborator2/main_S2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OOP.dir/Laborator2/main_S2.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator2/main_S2.cpp -o CMakeFiles/OOP.dir/Laborator2/main_S2.cpp.s
 
 # Object files for target OOP
 OOP_OBJECTS = \
 "CMakeFiles/OOP.dir/Laborator2/NumberList.cpp.o" \
-"CMakeFiles/OOP.dir/Laborator2/test.cpp.o"
+"CMakeFiles/OOP.dir/Laborator2/main_S2.cpp.o"
 
 # External object files for target OOP
 OOP_EXTERNAL_OBJECTS =
 
 OOP: CMakeFiles/OOP.dir/Laborator2/NumberList.cpp.o
-OOP: CMakeFiles/OOP.dir/Laborator2/test.cpp.o
+OOP: CMakeFiles/OOP.dir/Laborator2/main_S2.cpp.o
 OOP: CMakeFiles/OOP.dir/build.make
 OOP: CMakeFiles/OOP.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable OOP"
