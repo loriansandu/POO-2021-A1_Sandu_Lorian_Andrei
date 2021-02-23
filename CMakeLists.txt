@@ -7,4 +7,4 @@ add_executable(OOP
 
         "Laborator2/NumberList.h"
         "Laborator2/NumberList.cpp"
-        "Laborator2/test.cpp")
+        "Laborator2/main_S2.cpp")
