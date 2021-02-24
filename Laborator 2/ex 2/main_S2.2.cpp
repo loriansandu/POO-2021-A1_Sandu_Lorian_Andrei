@@ -35,7 +35,12 @@ int main()
     cout<<"Hst Grade= "<<S2.GetHst()<<endl;
     cout<<"Avg Grade is "<<S2.AvgGrd()<<endl;
 
-    cout<<Name_cmp(S1,S2);
+    cout<<"Name Compare: "<<Name_cmp(S1,S2)<<endl;
+    cout<<"Math Compare: "<<Math_cmp(S1,S2)<<endl;
+    cout<<"Eng Compare: "<<Eng_cmp(S1,S2)<<endl;
+    cout<<"Hst Compare: "<<Hst_cmp(S1,S2)<<endl;
+    cout<<"Avg Compare: "<<Avg_cmp(S1,S2)<<endl;
+
 
 
 

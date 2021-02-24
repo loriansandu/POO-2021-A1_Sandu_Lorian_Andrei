@@ -15,4 +15,39 @@ int Name_cmp(Student S1, Student S2)
     else
         return 1;
 }
+int Math_cmp(Student S1, Student S2)
+{
+    if(S1.GetMath()==S2.GetMath())
+        return 0;
+    if(S1.GetMath()<S2.GetMath())
+        return -1;
+    else
+        return 1;
+}
+int Hst_cmp(Student S1, Student S2)
+{
+    if(S1.GetHst()==S2.GetHst())
+        return 0;
+    if(S1.GetHst()<S2.GetHst())
+        return -1;
+    else
+        return 1;
+}
+int Eng_cmp(Student S1, Student S2)
+{
+    if(S1.GetEng()==S2.GetEng())
+        return 0;
+    if(S1.GetEng()<S2.GetEng())
+        return -1;
+    else
+        return 1;
+}
+int Avg_cmp(Student S1,Student S2)
+{
+    if(S1.AvgGrd()==S2.AvgGrd())
+        return 0;
+    if(S1.AvgGrd()<S2.AvgGrd())
+        return -1;
+    else return 1;
 
+}

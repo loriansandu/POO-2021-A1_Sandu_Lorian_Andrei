@@ -4,8 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 1/NumberList.cpp" "/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/cmake-build-debug/CMakeFiles/OOP.dir/Laborator_2/ex_1/NumberList.cpp.o"
-  "/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 1/main_S2.cpp" "/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/cmake-build-debug/CMakeFiles/OOP.dir/Laborator_2/ex_1/main_S2.cpp.o"
+  "/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 2/global_functions.cpp" "/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/cmake-build-debug/CMakeFiles/OOP.dir/Laborator_2/ex_2/global_functions.cpp.o"
+  "/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 2/main_S2.2.cpp" "/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/cmake-build-debug/CMakeFiles/OOP.dir/Laborator_2/ex_2/main_S2.2.cpp.o"
+  "/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 2/methods.cpp" "/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/cmake-build-debug/CMakeFiles/OOP.dir/Laborator_2/ex_2/methods.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

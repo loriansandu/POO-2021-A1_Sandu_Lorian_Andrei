@@ -6,7 +6,9 @@
 #define MAIN_CPP_GLOBAL_FUNCTIONS_H
 #include "Student.h"
 int Name_cmp(Student p1, Student p2);
-int Grade_cmp(Student p1, Student p2);
+int Math_cmp(Student p1, Student p2);
+int Hst_cmp(Student p1, Student p2);
+int Eng_cmp(Student p1, Student p2);
 int Avg_cmp(Student p1, Student p2);
 
 #endif //MAIN_CPP_GLOBAL_FUNCTIONS_H

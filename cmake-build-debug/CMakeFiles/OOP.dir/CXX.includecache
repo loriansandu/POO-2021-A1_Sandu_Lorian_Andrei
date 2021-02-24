@@ -6,17 +6,29 @@
 
 #IncludeRegexTransform: 
 
-/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 1/NumberList.cpp
-NumberList.h
-/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 1/NumberList.h
+/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 2/Student.h
+
+/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 2/global_functions.cpp
+global_functions.h
+/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 2/global_functions.h
+cstring
+-
 iostream
 -
+string.h
+-
 
-/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 1/NumberList.h
+/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 2/global_functions.h
+Student.h
+/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 2/Student.h
 
-/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 1/main_S2.cpp
-NumberList.h
-/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 1/NumberList.h
+/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 2/main_S2.2.cpp
+Student.h
+/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 2/Student.h
+global_functions.h
+/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 2/global_functions.h
 iostream
+-
+cstring
 -
 

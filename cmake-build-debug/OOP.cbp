@@ -80,13 +80,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 1/NumberList.cpp">
+		<Unit filename="/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 2/Student.h">
 			<Option target="OOP"/>
 		</Unit>
-		<Unit filename="/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 1/NumberList.h">
+		<Unit filename="/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 2/global_functions.cpp">
 			<Option target="OOP"/>
 		</Unit>
-		<Unit filename="/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 1/main_S2.cpp">
+		<Unit filename="/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 2/global_functions.h">
+			<Option target="OOP"/>
+		</Unit>
+		<Unit filename="/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 2/main_S2.2.cpp">
+			<Option target="OOP"/>
+		</Unit>
+		<Unit filename="/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/Laborator 2/ex 2/methods.cpp">
 			<Option target="OOP"/>
 		</Unit>
 		<Unit filename="/Users/lorian-andreisandu/Desktop/OOP/OOP-2021/CMakeLists.txt">
