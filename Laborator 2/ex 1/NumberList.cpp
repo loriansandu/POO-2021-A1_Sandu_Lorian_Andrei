@@ -27,5 +27,5 @@ void NumberList::Print()
 {
     for(int i=0;i<count;i++)
         cout<<numbers[i]<<' ';
-    //salut
+
 }
