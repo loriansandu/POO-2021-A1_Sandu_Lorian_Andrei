@@ -143,87 +143,6 @@ OOP/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/build
 .PHONY : OOP/fast
 
-Laborator_2/ex_2/global_functions.o: Laborator_2/ex_2/global_functions.cpp.o
-
-.PHONY : Laborator_2/ex_2/global_functions.o
-
-# target to build an object file
-Laborator_2/ex_2/global_functions.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_2/ex_2/global_functions.cpp.o
-.PHONY : Laborator_2/ex_2/global_functions.cpp.o
-
-Laborator_2/ex_2/global_functions.i: Laborator_2/ex_2/global_functions.cpp.i
-
-.PHONY : Laborator_2/ex_2/global_functions.i
-
-# target to preprocess a source file
-Laborator_2/ex_2/global_functions.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_2/ex_2/global_functions.cpp.i
-.PHONY : Laborator_2/ex_2/global_functions.cpp.i
-
-Laborator_2/ex_2/global_functions.s: Laborator_2/ex_2/global_functions.cpp.s
-
-.PHONY : Laborator_2/ex_2/global_functions.s
-
-# target to generate assembly for a file
-Laborator_2/ex_2/global_functions.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_2/ex_2/global_functions.cpp.s
-.PHONY : Laborator_2/ex_2/global_functions.cpp.s
-
-Laborator_2/ex_2/main_S2.2.o: Laborator_2/ex_2/main_S2.2.cpp.o
-
-.PHONY : Laborator_2/ex_2/main_S2.2.o
-
-# target to build an object file
-Laborator_2/ex_2/main_S2.2.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_2/ex_2/main_S2.2.cpp.o
-.PHONY : Laborator_2/ex_2/main_S2.2.cpp.o
-
-Laborator_2/ex_2/main_S2.2.i: Laborator_2/ex_2/main_S2.2.cpp.i
-
-.PHONY : Laborator_2/ex_2/main_S2.2.i
-
-# target to preprocess a source file
-Laborator_2/ex_2/main_S2.2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_2/ex_2/main_S2.2.cpp.i
-.PHONY : Laborator_2/ex_2/main_S2.2.cpp.i
-
-Laborator_2/ex_2/main_S2.2.s: Laborator_2/ex_2/main_S2.2.cpp.s
-
-.PHONY : Laborator_2/ex_2/main_S2.2.s
-
-# target to generate assembly for a file
-Laborator_2/ex_2/main_S2.2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_2/ex_2/main_S2.2.cpp.s
-.PHONY : Laborator_2/ex_2/main_S2.2.cpp.s
-
-Laborator_2/ex_2/methods.o: Laborator_2/ex_2/methods.cpp.o
-
-.PHONY : Laborator_2/ex_2/methods.o
-
-# target to build an object file
-Laborator_2/ex_2/methods.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_2/ex_2/methods.cpp.o
-.PHONY : Laborator_2/ex_2/methods.cpp.o
-
-Laborator_2/ex_2/methods.i: Laborator_2/ex_2/methods.cpp.i
-
-.PHONY : Laborator_2/ex_2/methods.i
-
-# target to preprocess a source file
-Laborator_2/ex_2/methods.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_2/ex_2/methods.cpp.i
-.PHONY : Laborator_2/ex_2/methods.cpp.i
-
-Laborator_2/ex_2/methods.s: Laborator_2/ex_2/methods.cpp.s
-
-.PHONY : Laborator_2/ex_2/methods.s
-
-# target to generate assembly for a file
-Laborator_2/ex_2/methods.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_2/ex_2/methods.cpp.s
-.PHONY : Laborator_2/ex_2/methods.cpp.s
-
 Laborator_3/Math.o: Laborator_3/Math.cpp.o
 
 .PHONY : Laborator_3/Math.o
@@ -251,6 +170,33 @@ Laborator_3/Math.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/Math.cpp.s
 .PHONY : Laborator_3/Math.cpp.s
 
+Laborator_3/main.o: Laborator_3/main.cpp.o
+
+.PHONY : Laborator_3/main.o
+
+# target to build an object file
+Laborator_3/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/main.cpp.o
+.PHONY : Laborator_3/main.cpp.o
+
+Laborator_3/main.i: Laborator_3/main.cpp.i
+
+.PHONY : Laborator_3/main.i
+
+# target to preprocess a source file
+Laborator_3/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/main.cpp.i
+.PHONY : Laborator_3/main.cpp.i
+
+Laborator_3/main.s: Laborator_3/main.cpp.s
+
+.PHONY : Laborator_3/main.s
+
+# target to generate assembly for a file
+Laborator_3/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/main.cpp.s
+.PHONY : Laborator_3/main.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -260,18 +206,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... OOP"
-	@echo "... Laborator_2/ex_2/global_functions.o"
-	@echo "... Laborator_2/ex_2/global_functions.i"
-	@echo "... Laborator_2/ex_2/global_functions.s"
-	@echo "... Laborator_2/ex_2/main_S2.2.o"
-	@echo "... Laborator_2/ex_2/main_S2.2.i"
-	@echo "... Laborator_2/ex_2/main_S2.2.s"
-	@echo "... Laborator_2/ex_2/methods.o"
-	@echo "... Laborator_2/ex_2/methods.i"
-	@echo "... Laborator_2/ex_2/methods.s"
 	@echo "... Laborator_3/Math.o"
 	@echo "... Laborator_3/Math.i"
 	@echo "... Laborator_3/Math.s"
+	@echo "... Laborator_3/main.o"
+	@echo "... Laborator_3/main.i"
+	@echo "... Laborator_3/main.s"
 .PHONY : help
 
 

@@ -27,4 +27,13 @@ int Math::Mul(double x, double y) {
 int Math::Mul(double x, double y, double z) {
     return x*y*z;
 }
+int Math::Add(int count, ...) {
+    va_list arguments;
+    va_start(arguments, count);
+    int sum=0;
+    for(int i=1;i<=count;i++)
+        sum+=va_arg(arguments,int);
+    va_end(arguments);
+    return sum;
+}
 
