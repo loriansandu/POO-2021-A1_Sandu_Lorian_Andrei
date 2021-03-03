@@ -143,59 +143,59 @@ OOP/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/build
 .PHONY : OOP/fast
 
-Laborator_3/Math.o: Laborator_3/Math.cpp.o
+Laborator_3/ex_1/Math.o: Laborator_3/ex_1/Math.cpp.o
 
-.PHONY : Laborator_3/Math.o
-
-# target to build an object file
-Laborator_3/Math.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/Math.cpp.o
-.PHONY : Laborator_3/Math.cpp.o
-
-Laborator_3/Math.i: Laborator_3/Math.cpp.i
-
-.PHONY : Laborator_3/Math.i
-
-# target to preprocess a source file
-Laborator_3/Math.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/Math.cpp.i
-.PHONY : Laborator_3/Math.cpp.i
-
-Laborator_3/Math.s: Laborator_3/Math.cpp.s
-
-.PHONY : Laborator_3/Math.s
-
-# target to generate assembly for a file
-Laborator_3/Math.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/Math.cpp.s
-.PHONY : Laborator_3/Math.cpp.s
-
-Laborator_3/main.o: Laborator_3/main.cpp.o
-
-.PHONY : Laborator_3/main.o
+.PHONY : Laborator_3/ex_1/Math.o
 
 # target to build an object file
-Laborator_3/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/main.cpp.o
-.PHONY : Laborator_3/main.cpp.o
+Laborator_3/ex_1/Math.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/ex_1/Math.cpp.o
+.PHONY : Laborator_3/ex_1/Math.cpp.o
 
-Laborator_3/main.i: Laborator_3/main.cpp.i
+Laborator_3/ex_1/Math.i: Laborator_3/ex_1/Math.cpp.i
 
-.PHONY : Laborator_3/main.i
+.PHONY : Laborator_3/ex_1/Math.i
 
 # target to preprocess a source file
-Laborator_3/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/main.cpp.i
-.PHONY : Laborator_3/main.cpp.i
+Laborator_3/ex_1/Math.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/ex_1/Math.cpp.i
+.PHONY : Laborator_3/ex_1/Math.cpp.i
 
-Laborator_3/main.s: Laborator_3/main.cpp.s
+Laborator_3/ex_1/Math.s: Laborator_3/ex_1/Math.cpp.s
 
-.PHONY : Laborator_3/main.s
+.PHONY : Laborator_3/ex_1/Math.s
 
 # target to generate assembly for a file
-Laborator_3/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/main.cpp.s
-.PHONY : Laborator_3/main.cpp.s
+Laborator_3/ex_1/Math.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/ex_1/Math.cpp.s
+.PHONY : Laborator_3/ex_1/Math.cpp.s
+
+Laborator_3/ex_1/main.o: Laborator_3/ex_1/main.cpp.o
+
+.PHONY : Laborator_3/ex_1/main.o
+
+# target to build an object file
+Laborator_3/ex_1/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/ex_1/main.cpp.o
+.PHONY : Laborator_3/ex_1/main.cpp.o
+
+Laborator_3/ex_1/main.i: Laborator_3/ex_1/main.cpp.i
+
+.PHONY : Laborator_3/ex_1/main.i
+
+# target to preprocess a source file
+Laborator_3/ex_1/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/ex_1/main.cpp.i
+.PHONY : Laborator_3/ex_1/main.cpp.i
+
+Laborator_3/ex_1/main.s: Laborator_3/ex_1/main.cpp.s
+
+.PHONY : Laborator_3/ex_1/main.s
+
+# target to generate assembly for a file
+Laborator_3/ex_1/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/ex_1/main.cpp.s
+.PHONY : Laborator_3/ex_1/main.cpp.s
 
 # Help Target
 help:
@@ -206,12 +206,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... OOP"
-	@echo "... Laborator_3/Math.o"
-	@echo "... Laborator_3/Math.i"
-	@echo "... Laborator_3/Math.s"
-	@echo "... Laborator_3/main.o"
-	@echo "... Laborator_3/main.i"
-	@echo "... Laborator_3/main.s"
+	@echo "... Laborator_3/ex_1/Math.o"
+	@echo "... Laborator_3/ex_1/Math.i"
+	@echo "... Laborator_3/ex_1/Math.s"
+	@echo "... Laborator_3/ex_1/main.o"
+	@echo "... Laborator_3/ex_1/main.i"
+	@echo "... Laborator_3/ex_1/main.s"
 .PHONY : help
 
 
