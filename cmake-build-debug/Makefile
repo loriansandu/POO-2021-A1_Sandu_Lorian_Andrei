@@ -224,6 +224,33 @@ Laborator_2/ex_2/methods.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_2/ex_2/methods.cpp.s
 .PHONY : Laborator_2/ex_2/methods.cpp.s
 
+Laborator_3/Math.o: Laborator_3/Math.cpp.o
+
+.PHONY : Laborator_3/Math.o
+
+# target to build an object file
+Laborator_3/Math.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/Math.cpp.o
+.PHONY : Laborator_3/Math.cpp.o
+
+Laborator_3/Math.i: Laborator_3/Math.cpp.i
+
+.PHONY : Laborator_3/Math.i
+
+# target to preprocess a source file
+Laborator_3/Math.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/Math.cpp.i
+.PHONY : Laborator_3/Math.cpp.i
+
+Laborator_3/Math.s: Laborator_3/Math.cpp.s
+
+.PHONY : Laborator_3/Math.s
+
+# target to generate assembly for a file
+Laborator_3/Math.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/Math.cpp.s
+.PHONY : Laborator_3/Math.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -242,6 +269,9 @@ help:
 	@echo "... Laborator_2/ex_2/methods.o"
 	@echo "... Laborator_2/ex_2/methods.i"
 	@echo "... Laborator_2/ex_2/methods.s"
+	@echo "... Laborator_3/Math.o"
+	@echo "... Laborator_3/Math.i"
+	@echo "... Laborator_3/Math.s"
 .PHONY : help
 
 

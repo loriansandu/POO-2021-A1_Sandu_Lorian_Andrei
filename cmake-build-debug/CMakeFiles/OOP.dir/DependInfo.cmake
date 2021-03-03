@@ -7,6 +7,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 2/ex 2/global_functions.cpp" "/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/CMakeFiles/OOP.dir/Laborator_2/ex_2/global_functions.cpp.o"
   "/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 2/ex 2/main_S2.2.cpp" "/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/CMakeFiles/OOP.dir/Laborator_2/ex_2/main_S2.2.cpp.o"
   "/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 2/ex 2/methods.cpp" "/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/CMakeFiles/OOP.dir/Laborator_2/ex_2/methods.cpp.o"
+  "/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 3/Math.cpp" "/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/CMakeFiles/OOP.dir/Laborator_3/Math.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
