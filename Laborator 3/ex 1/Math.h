@@ -8,6 +8,7 @@
 #include <cstdarg>
 #include <cstring>
 #include <stdlib.h>
+
 using namespace std;
 class Math {
 public:

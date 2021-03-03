@@ -14,6 +14,7 @@ int main()
     cout<<Math::Mul(2.75,5.2)<<endl;
     cout<<Math::Mul(1.2,9.3,6.7)<<endl;
     cout<<Math::Add(4,6,7,8,10)<<endl;
+    cout<<Math::Add("10","12");
 
 
 
