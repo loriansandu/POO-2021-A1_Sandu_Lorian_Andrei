@@ -52,3 +52,9 @@ char* Math::Add(const char *x, const char *y) {
     }
 
 }
+float Math::Imp(int a, int b) {
+    float x;
+    x=a/(b*1.0);
+    return x;
+
+}
