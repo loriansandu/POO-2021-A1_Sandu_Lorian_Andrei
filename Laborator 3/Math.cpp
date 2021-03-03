@@ -36,4 +36,19 @@ int Math::Add(int count, ...) {
     va_end(arguments);
     return sum;
 }
+char* Math::Add(const char *x, const char *y) {
+    if(x==NULL || y==NULL)
+        return NULL;
+    else
+    {   std::string resultstr;
+        int a;
+        a=atoi(x)+atoi(y);
+        resultstr=std::to_string(a);
+        char* p=(char *) malloc(resultstr.length()+1);
+        strcpy(p,resultstr.c_str());
+        return p;
 
+
+    }
+
+}
