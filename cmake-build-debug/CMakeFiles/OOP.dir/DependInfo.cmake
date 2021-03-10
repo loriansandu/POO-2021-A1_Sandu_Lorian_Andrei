@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 3/ex 1/Math.cpp" "/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/CMakeFiles/OOP.dir/Laborator_3/ex_1/Math.cpp.o"
   "/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 3/ex 1/main.cpp" "/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/CMakeFiles/OOP.dir/Laborator_3/ex_1/main.cpp.o"
+  "/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 4/Sort.cpp" "/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/CMakeFiles/OOP.dir/Laborator_4/Sort.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
