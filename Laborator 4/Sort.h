@@ -6,14 +6,13 @@
 #define MAIN_CPP_SORT_H
 #include <iostream>
 using namespace std;
-struct Node{
-    int n;
-    Node * next;
-    Node * prev;
-};
+
 class Sort{
-    Node * first;
-    Node * last;
+    struct Node{
+        int n;
+        Node *next;
+        Node *prev;
+    }*first,*last;
 public:
     Sort(int count, int min, int max);
     Sort(Node *list);
