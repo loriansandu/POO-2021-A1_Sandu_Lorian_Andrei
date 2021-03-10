@@ -89,6 +89,9 @@
 		<Unit filename="/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 3/ex 1/main.cpp">
 			<Option target="OOP"/>
 		</Unit>
+		<Unit filename="/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 4/Sort.h">
+			<Option target="OOP"/>
+		</Unit>
 		<Unit filename="/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
