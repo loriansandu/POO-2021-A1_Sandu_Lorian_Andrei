@@ -62,25 +62,6 @@ int Number::operator[](int i)
 Number& operator+(Number &value1,Number &value2)
 {
     int val1,val2;
-    char result[100],*res;
-    Number p;
-    val1=toDeci(value1.val,value1.base);
-    val2=toDeci(value2.val,value2.base);
-    val1+=val2;
-
-    if(value1.base>value2.base)
-        res=fromDeci(result,value1.base,val1),p.base=value1.base;
-    else
-        res=fromDeci(result,value2.base,val1),p.base=value2.base;
-
-    //strcpy(result,res);
-    p.val=res;
-
-    return p;
-}
-Number& operator-(Number &value1,Number &value2)
-{
-    int val1,val2;
     Number p;
     val1=toDeci(value1.val,value1.base);
     val2=toDeci(value2.val,value2.base);
@@ -91,7 +72,6 @@ Number& operator-(Number &value1,Number &value2)
     else
         p.val=fromDeci(p.val,value2.base,val1),p.base=value2.base;
 
-    //p.val=res;
     return p;
 }
 Number::Number() {
