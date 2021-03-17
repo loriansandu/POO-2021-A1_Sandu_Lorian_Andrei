@@ -59,19 +59,30 @@ int Number::operator[](int i)
 {   return this->val[i];
 
 }
+/*bool Number::operator>(Number &value1) {
+    int val1,val2;
+    val1=toDeci(this->val,this->base);
+    val2=toDeci(value1.val,value1.base);
+    if(val1>val2)
+       return true;
+    return false;
+
+}
+ */
 Number& operator+(Number &value1,Number &value2)
 {
     int val1,val2;
     Number p;
+    char sir[100],*res;
     val1=toDeci(value1.val,value1.base);
     val2=toDeci(value2.val,value2.base);
     val1+=val2;
 
     if(value1.base>value2.base)
-        p.val=fromDeci(p.val,value1.base,val1),p.base=value1.base;
+        res=fromDeci(sir,value1.base,val1),p.base=value1.base;
     else
-        p.val=fromDeci(p.val,value2.base,val1),p.base=value2.base;
-
+        res=fromDeci(sir,value2.base,val1),p.base=value2.base;
+    p.val=res;
     return p;
 }
 Number::Number() {

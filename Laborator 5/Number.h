@@ -17,8 +17,9 @@ public:
     Number(char * value, int base);
     //~Number();
     int operator[] (int index);
+    bool operator> (Number &value1);
     friend Number& operator+ (Number &value1,Number &value2);
-    friend Number& operator- (Number &value1,Number &value2);
+
     void SwitchBase(int newBase);
     void Print();
     int GetDigitsCount();
