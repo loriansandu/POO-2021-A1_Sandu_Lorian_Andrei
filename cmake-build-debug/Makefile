@@ -68,10 +68,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei
+CMAKE_SOURCE_DIR = /Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -100,9 +100,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/CMakeFiles /Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/CMakeFiles /Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -251,6 +251,33 @@ Laborator_4/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_4/main.cpp.s
 .PHONY : Laborator_4/main.cpp.s
 
+Laborator_5/Number.o: Laborator_5/Number.cpp.o
+
+.PHONY : Laborator_5/Number.o
+
+# target to build an object file
+Laborator_5/Number.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_5/Number.cpp.o
+.PHONY : Laborator_5/Number.cpp.o
+
+Laborator_5/Number.i: Laborator_5/Number.cpp.i
+
+.PHONY : Laborator_5/Number.i
+
+# target to preprocess a source file
+Laborator_5/Number.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_5/Number.cpp.i
+.PHONY : Laborator_5/Number.cpp.i
+
+Laborator_5/Number.s: Laborator_5/Number.cpp.s
+
+.PHONY : Laborator_5/Number.s
+
+# target to generate assembly for a file
+Laborator_5/Number.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_5/Number.cpp.s
+.PHONY : Laborator_5/Number.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -272,6 +299,9 @@ help:
 	@echo "... Laborator_4/main.o"
 	@echo "... Laborator_4/main.i"
 	@echo "... Laborator_4/main.s"
+	@echo "... Laborator_5/Number.o"
+	@echo "... Laborator_5/Number.i"
+	@echo "... Laborator_5/Number.s"
 .PHONY : help
 
 
