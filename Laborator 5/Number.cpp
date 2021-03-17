@@ -112,13 +112,6 @@ void Number::Print()
     cout<<sir<<endl;
 }
 
-Number::Number(char *string) {
-this->val=string;
-}
-Number::Number(int value)
-{
-
-}
 
 Number::Number() {
 
