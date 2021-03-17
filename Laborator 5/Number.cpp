@@ -78,17 +78,28 @@ Number& operator+(Number &value1,Number &value2)
 
     return p;
 }
+Number& operator-(Number &value1,Number &value2)
+{
+    int val1,val2;
+    Number p;
+    val1=toDeci(value1.val,value1.base);
+    val2=toDeci(value2.val,value2.base);
+    val1+=val2;
 
+    if(value1.base>value2.base)
+        p.val=fromDeci(p.val,value1.base,val1),p.base=value1.base;
+    else
+        p.val=fromDeci(p.val,value2.base,val1),p.base=value2.base;
+
+    //p.val=res;
+    return p;
+}
+Number::Number() {
+}
 Number::Number( char *value, int base)
 {
     this->val=value;
     this->base=base;
-}
-Number::Number(const Number &object)
-{
-    this->val=object.val;
-    this->base=object.base;
-
 }
 void Number::SwitchBase(int newBase)
 {
@@ -113,6 +124,3 @@ void Number::Print()
 }
 
 
-Number::Number() {
-
-}

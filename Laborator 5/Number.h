@@ -15,17 +15,15 @@ class Number {
     int base;
 public:
     Number(char * value, int base);
-    Number(const Number &object);
-    Number(int value);
     //~Number();
     int operator[] (int index);
     friend Number& operator+ (Number &value1,Number &value2);
+    friend Number& operator- (Number &value1,Number &value2);
     void SwitchBase(int newBase);
     void Print();
     int GetDigitsCount();
     int GetBase();
 
-    Number(char *string);
 };
 
 
