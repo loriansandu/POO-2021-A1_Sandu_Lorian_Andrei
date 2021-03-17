@@ -143,114 +143,6 @@ OOP/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/build
 .PHONY : OOP/fast
 
-Laborator_3/ex_1/Math.o: Laborator_3/ex_1/Math.cpp.o
-
-.PHONY : Laborator_3/ex_1/Math.o
-
-# target to build an object file
-Laborator_3/ex_1/Math.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/ex_1/Math.cpp.o
-.PHONY : Laborator_3/ex_1/Math.cpp.o
-
-Laborator_3/ex_1/Math.i: Laborator_3/ex_1/Math.cpp.i
-
-.PHONY : Laborator_3/ex_1/Math.i
-
-# target to preprocess a source file
-Laborator_3/ex_1/Math.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/ex_1/Math.cpp.i
-.PHONY : Laborator_3/ex_1/Math.cpp.i
-
-Laborator_3/ex_1/Math.s: Laborator_3/ex_1/Math.cpp.s
-
-.PHONY : Laborator_3/ex_1/Math.s
-
-# target to generate assembly for a file
-Laborator_3/ex_1/Math.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/ex_1/Math.cpp.s
-.PHONY : Laborator_3/ex_1/Math.cpp.s
-
-Laborator_3/ex_1/main.o: Laborator_3/ex_1/main.cpp.o
-
-.PHONY : Laborator_3/ex_1/main.o
-
-# target to build an object file
-Laborator_3/ex_1/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/ex_1/main.cpp.o
-.PHONY : Laborator_3/ex_1/main.cpp.o
-
-Laborator_3/ex_1/main.i: Laborator_3/ex_1/main.cpp.i
-
-.PHONY : Laborator_3/ex_1/main.i
-
-# target to preprocess a source file
-Laborator_3/ex_1/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/ex_1/main.cpp.i
-.PHONY : Laborator_3/ex_1/main.cpp.i
-
-Laborator_3/ex_1/main.s: Laborator_3/ex_1/main.cpp.s
-
-.PHONY : Laborator_3/ex_1/main.s
-
-# target to generate assembly for a file
-Laborator_3/ex_1/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_3/ex_1/main.cpp.s
-.PHONY : Laborator_3/ex_1/main.cpp.s
-
-Laborator_4/Sort.o: Laborator_4/Sort.cpp.o
-
-.PHONY : Laborator_4/Sort.o
-
-# target to build an object file
-Laborator_4/Sort.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_4/Sort.cpp.o
-.PHONY : Laborator_4/Sort.cpp.o
-
-Laborator_4/Sort.i: Laborator_4/Sort.cpp.i
-
-.PHONY : Laborator_4/Sort.i
-
-# target to preprocess a source file
-Laborator_4/Sort.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_4/Sort.cpp.i
-.PHONY : Laborator_4/Sort.cpp.i
-
-Laborator_4/Sort.s: Laborator_4/Sort.cpp.s
-
-.PHONY : Laborator_4/Sort.s
-
-# target to generate assembly for a file
-Laborator_4/Sort.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_4/Sort.cpp.s
-.PHONY : Laborator_4/Sort.cpp.s
-
-Laborator_4/main.o: Laborator_4/main.cpp.o
-
-.PHONY : Laborator_4/main.o
-
-# target to build an object file
-Laborator_4/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_4/main.cpp.o
-.PHONY : Laborator_4/main.cpp.o
-
-Laborator_4/main.i: Laborator_4/main.cpp.i
-
-.PHONY : Laborator_4/main.i
-
-# target to preprocess a source file
-Laborator_4/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_4/main.cpp.i
-.PHONY : Laborator_4/main.cpp.i
-
-Laborator_4/main.s: Laborator_4/main.cpp.s
-
-.PHONY : Laborator_4/main.s
-
-# target to generate assembly for a file
-Laborator_4/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_4/main.cpp.s
-.PHONY : Laborator_4/main.cpp.s
-
 Laborator_5/Number.o: Laborator_5/Number.cpp.o
 
 .PHONY : Laborator_5/Number.o
@@ -278,6 +170,33 @@ Laborator_5/Number.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_5/Number.cpp.s
 .PHONY : Laborator_5/Number.cpp.s
 
+Laborator_5/main.o: Laborator_5/main.cpp.o
+
+.PHONY : Laborator_5/main.o
+
+# target to build an object file
+Laborator_5/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_5/main.cpp.o
+.PHONY : Laborator_5/main.cpp.o
+
+Laborator_5/main.i: Laborator_5/main.cpp.i
+
+.PHONY : Laborator_5/main.i
+
+# target to preprocess a source file
+Laborator_5/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_5/main.cpp.i
+.PHONY : Laborator_5/main.cpp.i
+
+Laborator_5/main.s: Laborator_5/main.cpp.s
+
+.PHONY : Laborator_5/main.s
+
+# target to generate assembly for a file
+Laborator_5/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OOP.dir/build.make CMakeFiles/OOP.dir/Laborator_5/main.cpp.s
+.PHONY : Laborator_5/main.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -287,21 +206,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... OOP"
-	@echo "... Laborator_3/ex_1/Math.o"
-	@echo "... Laborator_3/ex_1/Math.i"
-	@echo "... Laborator_3/ex_1/Math.s"
-	@echo "... Laborator_3/ex_1/main.o"
-	@echo "... Laborator_3/ex_1/main.i"
-	@echo "... Laborator_3/ex_1/main.s"
-	@echo "... Laborator_4/Sort.o"
-	@echo "... Laborator_4/Sort.i"
-	@echo "... Laborator_4/Sort.s"
-	@echo "... Laborator_4/main.o"
-	@echo "... Laborator_4/main.i"
-	@echo "... Laborator_4/main.s"
 	@echo "... Laborator_5/Number.o"
 	@echo "... Laborator_5/Number.i"
 	@echo "... Laborator_5/Number.s"
+	@echo "... Laborator_5/main.o"
+	@echo "... Laborator_5/main.i"
+	@echo "... Laborator_5/main.s"
 .PHONY : help
 
 

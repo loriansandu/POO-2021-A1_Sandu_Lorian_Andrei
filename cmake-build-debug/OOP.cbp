@@ -80,28 +80,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 3/ex 1/Math.cpp">
-			<Option target="OOP"/>
-		</Unit>
-		<Unit filename="/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 3/ex 1/Math.h">
-			<Option target="OOP"/>
-		</Unit>
-		<Unit filename="/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 3/ex 1/main.cpp">
-			<Option target="OOP"/>
-		</Unit>
-		<Unit filename="/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 4/Sort.cpp">
-			<Option target="OOP"/>
-		</Unit>
-		<Unit filename="/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 4/Sort.h">
-			<Option target="OOP"/>
-		</Unit>
-		<Unit filename="/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 4/main.cpp">
-			<Option target="OOP"/>
-		</Unit>
 		<Unit filename="/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 5/Number.cpp">
 			<Option target="OOP"/>
 		</Unit>
 		<Unit filename="/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 5/Number.h">
+			<Option target="OOP"/>
+		</Unit>
+		<Unit filename="/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 5/main.cpp">
 			<Option target="OOP"/>
 		</Unit>
 		<Unit filename="/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/CMakeLists.txt">

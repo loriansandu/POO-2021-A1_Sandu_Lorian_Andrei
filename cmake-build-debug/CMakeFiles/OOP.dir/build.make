@@ -77,61 +77,9 @@ include CMakeFiles/OOP.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/OOP.dir/flags.make
 
-CMakeFiles/OOP.dir/Laborator_3/ex_1/Math.cpp.o: CMakeFiles/OOP.dir/flags.make
-CMakeFiles/OOP.dir/Laborator_3/ex_1/Math.cpp.o: ../Laborator\ 3/ex\ 1/Math.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/OOP.dir/Laborator_3/ex_1/Math.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/OOP.dir/Laborator_3/ex_1/Math.cpp.o -c "/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 3/ex 1/Math.cpp"
-
-CMakeFiles/OOP.dir/Laborator_3/ex_1/Math.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OOP.dir/Laborator_3/ex_1/Math.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 3/ex 1/Math.cpp" > CMakeFiles/OOP.dir/Laborator_3/ex_1/Math.cpp.i
-
-CMakeFiles/OOP.dir/Laborator_3/ex_1/Math.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OOP.dir/Laborator_3/ex_1/Math.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 3/ex 1/Math.cpp" -o CMakeFiles/OOP.dir/Laborator_3/ex_1/Math.cpp.s
-
-CMakeFiles/OOP.dir/Laborator_3/ex_1/main.cpp.o: CMakeFiles/OOP.dir/flags.make
-CMakeFiles/OOP.dir/Laborator_3/ex_1/main.cpp.o: ../Laborator\ 3/ex\ 1/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/OOP.dir/Laborator_3/ex_1/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/OOP.dir/Laborator_3/ex_1/main.cpp.o -c "/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 3/ex 1/main.cpp"
-
-CMakeFiles/OOP.dir/Laborator_3/ex_1/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OOP.dir/Laborator_3/ex_1/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 3/ex 1/main.cpp" > CMakeFiles/OOP.dir/Laborator_3/ex_1/main.cpp.i
-
-CMakeFiles/OOP.dir/Laborator_3/ex_1/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OOP.dir/Laborator_3/ex_1/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 3/ex 1/main.cpp" -o CMakeFiles/OOP.dir/Laborator_3/ex_1/main.cpp.s
-
-CMakeFiles/OOP.dir/Laborator_4/Sort.cpp.o: CMakeFiles/OOP.dir/flags.make
-CMakeFiles/OOP.dir/Laborator_4/Sort.cpp.o: ../Laborator\ 4/Sort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/OOP.dir/Laborator_4/Sort.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/OOP.dir/Laborator_4/Sort.cpp.o -c "/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 4/Sort.cpp"
-
-CMakeFiles/OOP.dir/Laborator_4/Sort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OOP.dir/Laborator_4/Sort.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 4/Sort.cpp" > CMakeFiles/OOP.dir/Laborator_4/Sort.cpp.i
-
-CMakeFiles/OOP.dir/Laborator_4/Sort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OOP.dir/Laborator_4/Sort.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 4/Sort.cpp" -o CMakeFiles/OOP.dir/Laborator_4/Sort.cpp.s
-
-CMakeFiles/OOP.dir/Laborator_4/main.cpp.o: CMakeFiles/OOP.dir/flags.make
-CMakeFiles/OOP.dir/Laborator_4/main.cpp.o: ../Laborator\ 4/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/OOP.dir/Laborator_4/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/OOP.dir/Laborator_4/main.cpp.o -c "/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 4/main.cpp"
-
-CMakeFiles/OOP.dir/Laborator_4/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OOP.dir/Laborator_4/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 4/main.cpp" > CMakeFiles/OOP.dir/Laborator_4/main.cpp.i
-
-CMakeFiles/OOP.dir/Laborator_4/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OOP.dir/Laborator_4/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 4/main.cpp" -o CMakeFiles/OOP.dir/Laborator_4/main.cpp.s
-
 CMakeFiles/OOP.dir/Laborator_5/Number.cpp.o: CMakeFiles/OOP.dir/flags.make
 CMakeFiles/OOP.dir/Laborator_5/Number.cpp.o: ../Laborator\ 5/Number.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/OOP.dir/Laborator_5/Number.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/OOP.dir/Laborator_5/Number.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/OOP.dir/Laborator_5/Number.cpp.o -c "/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 5/Number.cpp"
 
 CMakeFiles/OOP.dir/Laborator_5/Number.cpp.i: cmake_force
@@ -142,25 +90,32 @@ CMakeFiles/OOP.dir/Laborator_5/Number.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OOP.dir/Laborator_5/Number.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 5/Number.cpp" -o CMakeFiles/OOP.dir/Laborator_5/Number.cpp.s
 
+CMakeFiles/OOP.dir/Laborator_5/main.cpp.o: CMakeFiles/OOP.dir/flags.make
+CMakeFiles/OOP.dir/Laborator_5/main.cpp.o: ../Laborator\ 5/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/OOP.dir/Laborator_5/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/OOP.dir/Laborator_5/main.cpp.o -c "/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 5/main.cpp"
+
+CMakeFiles/OOP.dir/Laborator_5/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OOP.dir/Laborator_5/main.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 5/main.cpp" > CMakeFiles/OOP.dir/Laborator_5/main.cpp.i
+
+CMakeFiles/OOP.dir/Laborator_5/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OOP.dir/Laborator_5/main.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 5/main.cpp" -o CMakeFiles/OOP.dir/Laborator_5/main.cpp.s
+
 # Object files for target OOP
 OOP_OBJECTS = \
-"CMakeFiles/OOP.dir/Laborator_3/ex_1/Math.cpp.o" \
-"CMakeFiles/OOP.dir/Laborator_3/ex_1/main.cpp.o" \
-"CMakeFiles/OOP.dir/Laborator_4/Sort.cpp.o" \
-"CMakeFiles/OOP.dir/Laborator_4/main.cpp.o" \
-"CMakeFiles/OOP.dir/Laborator_5/Number.cpp.o"
+"CMakeFiles/OOP.dir/Laborator_5/Number.cpp.o" \
+"CMakeFiles/OOP.dir/Laborator_5/main.cpp.o"
 
 # External object files for target OOP
 OOP_EXTERNAL_OBJECTS =
 
-OOP: CMakeFiles/OOP.dir/Laborator_3/ex_1/Math.cpp.o
-OOP: CMakeFiles/OOP.dir/Laborator_3/ex_1/main.cpp.o
-OOP: CMakeFiles/OOP.dir/Laborator_4/Sort.cpp.o
-OOP: CMakeFiles/OOP.dir/Laborator_4/main.cpp.o
 OOP: CMakeFiles/OOP.dir/Laborator_5/Number.cpp.o
+OOP: CMakeFiles/OOP.dir/Laborator_5/main.cpp.o
 OOP: CMakeFiles/OOP.dir/build.make
 OOP: CMakeFiles/OOP.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable OOP"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable OOP"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/OOP.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

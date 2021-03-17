@@ -4,7 +4,9 @@
 
 #ifndef MAIN_CPP_NUMBER_H
 #define MAIN_CPP_NUMBER_H
-
+#include <iostream>
+#include <string.h>
+using namespace std;
 
 class Number {
     char *val;
@@ -12,6 +14,7 @@ class Number {
 public:
     Number(char * value, int base);
     Number(const Number &object);
+    Number(int value);
     //~Number();
     int operator[] (int index);
     friend char* operator+ (Number &value1,Number &value2);
@@ -20,6 +23,7 @@ public:
     int GetDigitsCount();
     int GetBase();
 
+    Number(char *string);
 };
 
 
