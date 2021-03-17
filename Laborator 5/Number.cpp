@@ -35,11 +35,7 @@ int toDeci(char *str, int base)
     int i;
     for (i = len - 1; i >= 0; i--)
     {
-        if (val(str[i]) >= base)
-        {
-            printf("Invalid Number");
-            return -1;
-        }
+
 
         num += val(str[i]) * power;
         power = power * base;
@@ -63,28 +59,24 @@ int Number::operator[](int i)
 {   return this->val[i];
 
 }
-char* operator+(Number &value1,Number &value2)
+Number& operator+(Number &value1,Number &value2)
 {
     int val1,val2;
     char result[100],*res;
+    Number p;
     val1=toDeci(value1.val,value1.base);
     val2=toDeci(value2.val,value2.base);
     val1+=val2;
 
     if(value1.base>value2.base)
-        res=fromDeci(result,value1.base,val1);
+        res=fromDeci(result,value1.base,val1),p.base=value1.base;
     else
-        res=fromDeci(result,value2.base,val1);
+        res=fromDeci(result,value2.base,val1),p.base=value2.base;
 
     //strcpy(result,res);
-    value1.val=res;
-    value1.base=value2.base;
+    p.val=res;
 
-    return value1.val;
-}
-char* operator+(Number &value1,char *sir)
-{
-
+    return p;
 }
 
 Number::Number( char *value, int base)
@@ -125,5 +117,9 @@ this->val=string;
 }
 Number::Number(int value)
 {
+
+}
+
+Number::Number() {
 
 }

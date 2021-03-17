@@ -22,10 +22,10 @@ cout<<n1.GetDigitsCount();
     }
    // n1.Print();
     n2.Print();
-    n1=n3;
-    n1.Print();
-    n1.SwitchBase(2);
-    n1.Print();
+    n1=n3+n2+n1;
+    //n1.Print();
+    n1.SwitchBase(10);
+   n1.Print();
     cout<<n1.GetBase();
     //cout<<n1.GetBase();
 

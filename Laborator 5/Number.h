@@ -9,6 +9,8 @@
 using namespace std;
 
 class Number {
+    Number();
+
     char *val;
     int base;
 public:
@@ -17,7 +19,7 @@ public:
     Number(int value);
     //~Number();
     int operator[] (int index);
-    friend char* operator+ (Number &value1,Number &value2);
+    friend Number& operator+ (Number &value1,Number &value2);
     void SwitchBase(int newBase);
     void Print();
     int GetDigitsCount();
