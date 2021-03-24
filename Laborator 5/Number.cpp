@@ -109,9 +109,10 @@ int Number::GetBase() {
     return this->base;
 }
 void Number::Print()
-{   char sir[100];
-    strcpy(sir,this->val);
-    cout<<sir<<endl;
+{   char ssir[200];
+   // strcpy(sir,this->val);
+    cout<<this->val<<endl;
+   // delete p1;
 }
 
 

@@ -16,9 +16,16 @@ int main()
     {
         printf("n1[%d]=%c\n",tr,n1[tr]);
     }
-    n1.Print();
+
+    n2.SwitchBase(10);
+    //n1.SwitchBase(10);
+   // n1.Print();
+   n3.SwitchBase(10);
+
     n2.Print();
     n1=n2+n1;
+    n3.Print();
+    n2=n1+n3;
     n1.Print();
     n1.SwitchBase(2);
     n1.Print();
