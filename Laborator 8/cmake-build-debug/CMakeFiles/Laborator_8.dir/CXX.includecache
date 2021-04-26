@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 8/main.cpp
+fstream
+-
+string
+-
+map
+-
+queue
+-
+iostream
+-
+

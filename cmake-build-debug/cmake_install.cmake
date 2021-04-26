@@ -1,4 +1,4 @@
-# Install script for directory: /Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei
+# Install script for directory: /Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -6,11 +6,11 @@
 #include <iostream>
 #include <string.h>
 using namespace std;
-int Name_cmp(Student S1, Student S2)
+int Name_cmp(Student s1, Student s2)
 {
-    if(strcmp(S1.GetName(),S2.GetName())==0)
+    if(strcmp(s1.GetName(),s2.GetName())==0)
         return 0;
-    if(strcmp(S1.GetName(),S2.GetName())<0)
+    if(strcmp(s1.GetName(),s2.GetName())<0)
         return -1;
     else
         return 1;

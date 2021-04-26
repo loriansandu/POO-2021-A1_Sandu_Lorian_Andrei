@@ -8,88 +8,94 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug"/>
+				<Option working_dir="/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug"/>
+				<Option working_dir="/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug"/>
+				<Option working_dir="/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="OOP">
-				<Option output="/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/OOP" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug"/>
+				<Option output="/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/OOP" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 OOP"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 OOP"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="OOP/fast">
-				<Option output="/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/OOP" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug"/>
+				<Option output="/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/OOP" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 OOP/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 OOP/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 5/Number.cpp">
+		<Unit filename="/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 2/ex 2/Student.h">
 			<Option target="OOP"/>
 		</Unit>
-		<Unit filename="/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 5/Number.h">
+		<Unit filename="/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 2/ex 2/global_functions.cpp">
 			<Option target="OOP"/>
 		</Unit>
-		<Unit filename="/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 5/main.cpp">
+		<Unit filename="/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 2/ex 2/global_functions.h">
 			<Option target="OOP"/>
 		</Unit>
-		<Unit filename="/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/CMakeLists.txt">
+		<Unit filename="/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 2/ex 2/main_S2.2.cpp">
+			<Option target="OOP"/>
+		</Unit>
+		<Unit filename="/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 2/ex 2/methods.cpp">
+			<Option target="OOP"/>
+		</Unit>
+		<Unit filename="/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

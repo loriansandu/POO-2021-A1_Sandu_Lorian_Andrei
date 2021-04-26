@@ -6,13 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 5/Number.cpp
-Number.h
-/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 5/Number.h
+/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 2/ex 2/Student.h
 
-/Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 5/Number.h
+/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 2/ex 2/global_functions.cpp
+global_functions.h
+/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 2/ex 2/global_functions.h
+cstring
+-
 iostream
 -
 string.h
 -
+
+/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 2/ex 2/global_functions.h
+Student.h
+/Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/Laborator 2/ex 2/Student.h
 

@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/lorian-andreisandu/Desktop/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug
+-- Build files have been written to: /Users/lorian-andreisandu/Desktop/OOP/POO-2021-A1_Sandu_Lorian_Andrei/cmake-build-debug
